@@ -1,1 +1,1 @@
-SpringBoot + SpringJPA + DM
+SpringBoot + Spring Data JPA + DM
